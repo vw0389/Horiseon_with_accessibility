@@ -4,6 +4,7 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
+    /* Font family is uniform, consolidated into global */
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -103,7 +104,7 @@ p {
 }
 
 
-/* Following 3 are exactly the same */
+/* Following 3 are exactly the same, consolidated to above */
 
 
 /* .search-engine-optimization {
@@ -135,7 +136,7 @@ p {
 }
 
 
-/* Following 3 are exactly the same */
+/* Following 3 are exactly the same, consolidated to above */
 
 
 /* .search-engine-optimization img {
@@ -156,7 +157,7 @@ p {
 }
 
 
-/* Following 3 are exactly the same */
+/* Following 3 are exactly the same, consolidated to above */
 
 
 /* .search-engine-optimization h2 {
@@ -188,15 +189,12 @@ p {
     width: 20%;
     height: 100%;
     background-color: #2589bd;
-}
-
-.benefits {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
-/* Following 3 are exactly the same */
+/* Following 3 are exactly the same, consolidated into .benefits above */
 
 
 /* .benefit-lead {
@@ -220,7 +218,7 @@ p {
 }
 
 
-/* Following 3 are exactly the same */
+/* Following 3 are exactly the same, consolidated to above */
 
 
 /* .benefit-lead h3 {
@@ -245,7 +243,7 @@ p {
 }
 
 
-/* Following 3 are exactly the same */
+/* Following 3 are exactly the same, consolidated to above */
 
 
 /* .benefit-lead img {
