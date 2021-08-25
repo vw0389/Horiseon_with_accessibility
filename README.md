@@ -1,6 +1,8 @@
 # Challenge 1
 The Purpose of this challenge is to make this website more accessible for people with disabilities.
 
+![Alt text](./assets/images/Horiseon_Digital_outlook.png?raw=true "Horiseon Digital Outlook")
+
 ## TODO
 - [ ] Utilize Semantic Tags
 - [ ] Consolidate CSS & Modify HTML to be more accessible for people with disabilities
@@ -36,3 +38,4 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 #### Live @ https://vw0389.github.io/Horiseon_with_accessibility/
+
