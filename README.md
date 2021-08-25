@@ -1,10 +1,17 @@
-# Challenge 1
+# Live @ https://vw0389.github.io/Horiseon_with_accessibility/
 
-## User Story
+# Challenge 1
+The Purpose of this challenge is to make this website more accessible for people with disabilities.
+
+## TODO
+- [ ] Utilize Semantic Tags
+- [ ] Consolidate CSS & Modify HTML to be more accessible for people with disabilities
+- [ ] Add comments where relevant
+### User Story
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
-## Acceptance Criteria
+### Acceptance Criteria
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -17,4 +24,3 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
-### Live @ https://vw0389.github.io/Horiseon_with_accessibility/
