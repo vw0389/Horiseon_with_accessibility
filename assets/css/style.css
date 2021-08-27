@@ -12,6 +12,9 @@ body {
     background-color: #d9dcd6;
 }
 
+
+/* Link style */
+
 a {
     color: #ffffff;
     text-decoration: none;
@@ -37,6 +40,9 @@ p {
     display: inline-block;
     font-size: 48px;
 }
+
+
+/* Title span */
 
 .header h1 .seo {
     color: #d9dcd6;

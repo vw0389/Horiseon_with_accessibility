@@ -1,12 +1,12 @@
 # Challenge 1
-The purpose of this challenge is to make this website more accessible for people with disabilities.
+The purpose of this challenge is to make this website more accessible for people with disabilities.  It will also help search engines index the website.
 
 ![Alt text](./assets/images/Horiseon_Digital_outlook.png?raw=true "Horiseon Digital Outlook")
 
 ## TODO
 - [X] Utilize Semantic Tags
-- [ ] Consolidate CSS & Modify HTML to be more accessible for people with disabilities
-- [ ] Add comments where relevant
+- [X] Consolidate CSS & Modify HTML to be more accessible for people with disabilities
+- [X] Add comments where relevant
 ### User Story
 AS A marketing agency
 
